@@ -2402,7 +2402,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-area .overlay-bg {
   background-color: rgba(0, 0, 0, 0.7);
-}
+  background: url(../img/logverde.jpg);
+  }
 
 .banner-content {
   z-index: 2;
@@ -2529,7 +2530,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-video-right {
-  background: url(../img/video-bg.jpg) no-repeat center;
+  background: url(../img/VersysIlles.jpg) no-repeat center;
   background-size: cover;
   height: 330px;
 }
@@ -3726,9 +3727,3 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: none;
   background: #f9f9ff;
 }
-
-/*
-################
-               End Blog Details  Page style
-################
-*/
